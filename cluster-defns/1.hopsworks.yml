@@ -4,8 +4,8 @@ baremetal:
 
 cookbooks:
   hopsworks:
-    github: logicalclocks/hopsworks-chef
-    branch: master
+    github: Limmen/hopsworks-chef
+    branch: HOPSWORKS-719
 
 attrs:
   install:
